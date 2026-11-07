@@ -1,6 +1,7 @@
 <h1 align="center">Johnny Kong</h1>
 
 <p align="center">
+  CS + Math student at the University of Michigan<br>
   <b>Low-latency C++. Real-time systems. LLM evals.</b>
 </p>
 
@@ -10,8 +11,6 @@
 </p>
 
 ---
-
-CS + Math student at the University of Michigan. Writing fast C++ and benchmarking everything.
 
 ## 📌 Featured projects
 
