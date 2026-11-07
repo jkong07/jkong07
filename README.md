@@ -11,9 +11,7 @@
 
 ---
 
-## ⚔️ How I work
-
-Profile it. Fix one thing. Measure again.
+CS + Math student at the University of Michigan. Writing fast C++ and benchmarking everything.
 
 ## 📌 Featured projects
 
