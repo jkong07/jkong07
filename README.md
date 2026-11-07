@@ -1,20 +1,19 @@
 <h1 align="center">Johnny Kong</h1>
 
 <p align="center">
-  <b>I build things that are fast, correct, and measured.</b><br>
-  Low-latency systems. Real-time software. Rigorous LLM evaluation.
+  <b>Low-latency C++. Real-time systems. LLM evals.</b>
 </p>
 
 <p align="center">
   <a href="mailto:johnnyxkong@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kong-johnny"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ## ⚔️ How I work
 
-I don't guess, I measure. I start naive, profile it, change one thing at a time, and keep what the numbers justify. If a claim can't survive a benchmark, an invariant check or a significance test, I don't ship it.
+Profile it. Fix one thing. Measure again.
 
 ## 📌 Featured projects
 
